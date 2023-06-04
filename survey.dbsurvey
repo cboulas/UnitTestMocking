@@ -7,6 +7,6 @@
   </Hashage>
   <Options>
     <OptionName>ignore</OptionName>
-    <OptionValue>false</OptionValue>
+    <OptionValue>true</OptionValue>
   </Options>
 </NewDataSet>
